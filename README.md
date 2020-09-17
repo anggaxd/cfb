@@ -14,12 +14,12 @@
 ## Features
 * Login Via Token (Only)
 * Crack From Friend Public
-  - Crack Facebook Indonesia
-  - Crack Facebook Pakistan
-  - Crack Facebook USA
-  - Crack Facebook Bangladesh
-  - Crack Facebook India
-  - Crack Facebook Malaysia
+  * Crack Facebook Indonesia
+  * Crack Facebook Pakistan
+  * Crack Facebook USA
+  * Crack Facebook Bangladesh
+  * Crack Facebook India
+  * Crack Facebook Malaysia
 * Crack From On Post Group / Friends
 
 ## Install script on Termux
